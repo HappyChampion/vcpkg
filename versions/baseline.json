@@ -5936,6 +5936,10 @@
       "baseline": "0.24.26",
       "port-version": 0
     },
+    "limonp": {
+      "baseline": "1.0.1",
+      "port-version": 0
+    },
     "linalg": {
       "baseline": "2.2",
       "port-version": 0
