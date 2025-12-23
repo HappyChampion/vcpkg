@@ -1,0 +1,23 @@
+{
+  "name": "cppjieba",
+  "version": "5.6.0",
+  "description": "CppJieba是\"结巴(Jieba)\"中文分词的C++版本",
+  "homepage": "https://github.com/yanyiwu/cppjieba",
+  "license": "MIT",
+  "dependencies": [
+    "limonp",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ],
+  "features": {
+    "example-feature": {
+      "description": ""
+    }
+  }
+}
