@@ -1,0 +1,23 @@
+{
+  "name": "mockcpp",
+  "version": "2.7",
+  "description": "A C/C++ Mock Framework ",
+  "homepage": "https://github.com/sinojelly/mockcpp",
+  "license": "Apache-2.0",
+  "dependencies": [
+    "gtest",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ],
+  "features": {
+    "example-feature": {
+      "description": ""
+    }
+  }
+}
